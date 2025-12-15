@@ -9,10 +9,11 @@ body {
 
 .container {
     background: rgb(169, 168, 168);
-    padding: 30px;
+    padding: 32px;
     width: 420px;
     border-radius: 12px;
 }
+
 h2 {
     text-align: center;
     margin-bottom: 15px;
@@ -58,7 +59,6 @@ li {
     justify-content: space-between;
     align-items: center;
 }
-
 
 .completed {
     text-decoration: line-through;
